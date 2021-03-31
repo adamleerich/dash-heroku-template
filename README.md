@@ -13,19 +13,16 @@ I followed these tutorials to get it up and running on Heroku:
 1. Create a new repo using this as a template
 2. Clone locally
 3. Run the following Heroku CLI commands to get it linked up
-
-     a. `heroku login`
-     b. `heroku create`
-     c. `git push heroku main` (or `master`)
-     d. `heroku ps:scale web=1` (assign one dyno to the app)
-     e. `heroku open` (opens the app on Heroku)
-
+   * `heroku login`
+   * `heroku create`
+   * `git push heroku main` (or `master`)
+   * `heroku ps:scale web=1` (assign one dyno to the app)
+   * `heroku open` (opens the app on Heroku)
 4. Develop
 5. Test the app locally: `heroku local -f Procfile.windows`
 6. Deploy changes
-
-     a. `git push heroku main` (or `master`)
-     b. `heroku open` (opens the app on Heroku)
+   * `git push heroku main` (or `master`)
+   * `heroku open` (opens the app on Heroku)
 
 
 
