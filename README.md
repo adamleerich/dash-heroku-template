@@ -1,11 +1,7 @@
 
 # Dash Hello World
 
-This template repo started as a fork of https://github.com/plotly/dash-hello-world.
-I followed these tutorials to get it up and running on Heroku:
-
-* https://towardsdatascience.com/deploying-your-dash-app-to-heroku-the-magical-guide-39bd6a0c586c
-* https://devcenter.heroku.com/articles/getting-started-with-python
+This app is running at https://lit-earth-51943.herokuapp.com/.
 
 
 ## Setting up a new project
@@ -33,5 +29,11 @@ I followed these tutorials to get it up and running on Heroku:
 
 
 
+## Source 
 
+This template repo started as a fork of https://github.com/plotly/dash-hello-world.
+I followed these tutorials to get it up and running on Heroku:
+
+* https://towardsdatascience.com/deploying-your-dash-app-to-heroku-the-magical-guide-39bd6a0c586c
+* https://devcenter.heroku.com/articles/getting-started-with-python
 
