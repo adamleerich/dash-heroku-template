@@ -22,7 +22,7 @@ app.scripts.config.serve_locally = False
 dcc._js_dist[0]['external_url'] = 'https://cdn.plot.ly/plotly-basic-latest.min.js'
 
 app.layout = html.Div([
-    html.H1('Ticker Tocks Clocks:'),
+    html.H1('Stock tickers:'),
     dcc.Dropdown(
         id='my-dropdown',
         options=[
