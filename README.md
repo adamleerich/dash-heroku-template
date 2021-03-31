@@ -1,7 +1,7 @@
 
 # Dash Hello World
 
-This app is running at https://lit-earth-51943.herokuapp.com/.
+This app is running at https://dash-heroku-template-51943.herokuapp.com/.
 
 
 ## Setting up a new project
